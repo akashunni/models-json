@@ -27,18 +27,6 @@
       "isEnabled": true
     },
     {
-      "id": "qwen-2.5-1.5b-q6k",
-      "name": "Qwen 2.5 1.5B (Smart)",
-      "filename": "qwen2.5-1.5b-instruct-q6_k.gguf",
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q6_K.gguf?download=true",
-      "kind": "generation",
-      "sizeBytes": 1270000000,
-      "recommended": true,
-      "minimumTier": "pro",
-      "defaultEngine": "llama",
-      "isEnabled": true
-    },
-    {
       "id": "gemma-2-2b-q4km",
       "name": "Gemma 2 2B (Google)",
       "filename": "gemma-2-2b-it-q4_k_m.gguf",
