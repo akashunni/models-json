@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "generatedAt": "2026-05-03T00:00:00Z",
   "models": [
     {
@@ -9,18 +9,6 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q4_K_M.gguf?download=true",
       "kind": "generation",
       "sizeBytes": 2000000000,
-      "recommended": true,
-      "minimumTier": "pro",
-      "defaultEngine": "llama",
-      "isEnabled": true
-    },
-    {
-      "id": "qwen-2.5-1.5b-q6k",
-      "name": "Qwen 2.5 1.5B (Smart)",
-      "filename": "qwen2.5-1.5b-instruct-q6_k.gguf",
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q6_K.gguf?download=true",
-      "kind": "generation",
-      "sizeBytes": 1270000000,
       "recommended": true,
       "minimumTier": "pro",
       "defaultEngine": "llama",
